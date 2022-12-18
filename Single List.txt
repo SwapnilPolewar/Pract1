@@ -15,7 +15,6 @@
       <option value="SEP">SEP</option>
       <option value="OCT">OCT</option>
       <option value="NOV">NOV</option>
-      <option value="DEC">DEC</option>
       </Select>
    </body>
 </html>
